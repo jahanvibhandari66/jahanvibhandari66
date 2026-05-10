@@ -1,10 +1,70 @@
-- 👋 Hi, I’m Jahanvi Bhandari 
-- 👀 I’m interested in data analyst
-- 🌱 I’m currently learning Java C++
-- 📫 How to reach me bhandarijahanvi66@gmail.com
+# Hey there 👋 I'm Jahanvi Bhandari
 
+🎓 BCA (AI & Data Science) Student  
+💡 AI | Data Science | Web Dev  
+🚀 Passionate about solving real-world problems using AI  
 
-<!---
-jahanvibhandari66/jahanvibhandari66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🧠 About Me
+- Enthusiastic BCA student specializing in AI & Data Science  
+- Strong in Machine Learning, Data Analysis & Visualization  
+- Love building impactful projects  
+- Interested in Big Data & AI applications  
+
+---
+
+## 🛠 Skills
+
+### 💻 Programming
+Python | C++ | Java | SQL  
+
+### 🌐 Web Development
+HTML | CSS | JavaScript | PHP  
+
+### 📊 Data & Analytics
+Power BI | Excel | Tableau  
+Pandas | NumPy | Matplotlib | Seaborn  
+
+### ⚙️ Tools
+Git | GitHub | XAMPP | Jupyter Notebook  
+
+---
+
+## 🎓 Education
+🎓 BCA (AI & Data Science)  
+K.R. Mangalam University (2026)
+
+---
+
+## 📜 Certifications
+- Data Analysis with Python – IBM  
+- R Programming – Smatrix  
+- Foundation to AI & Data Science – Smatrix  
+
+---
+
+## 🚀 Projects
+
+### 🥗 Balance Bite
+- Built a health & wellness website  
+- Features recipes, skincare tips  
+- User-submitted content system  
+
+### 📚 DOC Study Helper
+- Educational app for notes & study material  
+- Structured subject navigation  
+- Built using Java + XML + APIs  
+
+---
+
+## 📫 Connect With Me
+📧 bhandarijahanvi66@gmail.com  
+🔗 LinkedIn | GitHub | LeetCode  
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
