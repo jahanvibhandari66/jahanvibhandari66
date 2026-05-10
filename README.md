@@ -60,11 +60,6 @@ K.R. Mangalam University (2026)
 
 ## 📫 Connect With Me
 📧 bhandarijahanvi66@gmail.com  
-🔗 LinkedIn | GitHub | LeetCode  
+🔗 LinkedIn www.linkedin.com/in/jahanvi-bhandari-711a241b4 
 
 ---
-
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
